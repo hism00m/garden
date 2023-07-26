@@ -9,7 +9,7 @@ tags:
 ---
 # 2BKDP1 | Einführung in Affinity Publisher
 
-![](https://tinhocdongthap.com/wp-content/uploads/2020/11/D1YyilqW0AEYjXC.jpg)
+![ | 100](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Affinity_Publisher_V2_icon.svg/512px-Affinity_Publisher_V2_icon.svg.png)
 
 Affinity Publisher ist ein professionelles Layout- und Satzprogramm für das Desktop Publishing^[*Desktop-Publishing (Abkürzung DTP; engl. für „Publizieren vom Schreibtisch aus“) ist das rechnergestützte Setzen von Dokumenten, die aus Texten und Bildern bestehen und später als Publikationen, wie zum Beispiel Broschüren, Magazine, Bücher oder Kataloge, ihre Verwendung finden.* [[Wikipedia](https://de.wikipedia.org/wiki/Desktop-Publishing)]]. Es wird vor allem in Werbeagenturen und von freien Grafikern sowie in Druckereien und Verlagen eingesetzt. Zusammen mit Redaktionssystemen ist es häufig in Kombination mit anderen Redaktionswerkzeugen und Textprogrammen in der professionellen Zeitungs- und Zeitschriftenproduktion anzutreffen. Weitere Einsatzbereiche sind etwa die Herstellung von Prospekten, Broschüren, Katalogen, Faltblättern, Plakaten und Geschäftsdrucksachen. 
 

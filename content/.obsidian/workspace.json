@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "garden/hello.md",
+                "file": "garden/Publisher.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "garden/hello.md",
+                "file": "garden/Publisher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "garden/hello.md",
+                "file": "garden/Publisher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "garden/hello.md"
+                "file": "garden/Publisher.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,8 +148,8 @@
   },
   "active": "930d83ef66a4e64a",
   "lastOpenFiles": [
-    "garden/Publisher.md",
     "garden/hello.md",
+    "garden/Publisher.md",
     "garden/Test.md"
   ]
 }
