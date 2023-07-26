@@ -12,5 +12,3 @@ sdf
 as
 dfsd
 f
-
-[[garden/2BKDP1 | Einführung in Affinity Publisher|2BKDP1 | Einführung in Affinity Publisher]]
