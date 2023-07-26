@@ -1,11 +1,11 @@
 ---
-title: "2BKDP1 | Einführung in Affinity Publisher"
+title: "Einführung in Affinity Publisher"
 tags:
 - 2bkpd1 
+- tgge
 - ca
 - publisher
 - DTP
-- sj2122
 ---
 # 2BKDP1 | Einführung in Affinity Publisher
 
